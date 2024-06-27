@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 🎀
 
+Meu nome é Alana
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
 <!--
 **alanabjordan/alanabjordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
